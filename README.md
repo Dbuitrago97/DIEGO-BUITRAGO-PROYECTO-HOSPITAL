@@ -1,2 +1,4 @@
-# proyecto-veterinaria
-Proyecto veterinaria
+# proyecto-hospital
+GRUPO 12
+Diego Buitrago
+
